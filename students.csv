@@ -1,0 +1,101 @@
+Ogrenci_ID,Ogrenci_Adi,Bolum,Vize_Notu,Final_Notu,Odev_Notu,Devam_Orani_%
+1001,Deniz Sahin,Yapay Zeka Muh.,60,51,58,63
+1002,Gamze Sahin,Endustri Muh.,36,95,84,57
+1003,Ahmet Kaya,Bilgisayar Muh.,54,84,33,90
+1004,Burak Ozdemir,Yazilim Muh.,53,77,65,55
+1005,Kaan Celik,Yazilim Muh.,68,55,49,68
+1006,Kaan Dogan,Yapay Zeka Muh.,36,68,42,77
+1007,Pinar Kilic,Endustri Muh.,58,25,88,89
+1008,Elif Aslan,Yapay Zeka Muh.,95,57,76,91
+1009,Burak Kaya,Yapay Zeka Muh.,54,57,40,69
+1010,Pinar Sahin,Yazilim Muh.,60,78,76,65
+1011,Merve Kilic,Bilgisayar Muh.,59,29,51,89
+1012,Gamze Yildiz,Bilgisayar Muh.,84,68,64,95
+1013,Ozan Ozdemir,Bilgisayar Muh.,66,27,59,57
+1014,Ezgi Dogan,Yazilim Muh.,59,28,57,91
+1015,Cem Dogan,Bilgisayar Muh.,88,70,88,64
+1016,Emre Ozkan,Bilgisayar Muh.,96,88,63,92
+1017,Fatma Acar,Yazilim Muh.,71,48,47,87
+1018,Buse Kaya,Yapay Zeka Muh.,39,39,50,98
+1019,Fatma Yimaz,Yapay Zeka Muh.,74,68,89,88
+1020,Emre Ozdemir,Yapay Zeka Muh.,39,88,64,96
+1021,Mustafa Sahin,Veri Bilimi,80,40,88,55
+1022,Gamze Ozturk,Endustri Muh.,47,84,43,95
+1023,Gizem Kurt,Endustri Muh.,50,39,77,65
+1024,Irem Kurt,Yapay Zeka Muh.,66,82,32,62
+1025,Selin Kilic,Veri Bilimi,55,27,60,91
+1026,Mehmet Kaya,Yazilim Muh.,33,88,46,63
+1027,Ece Koc,Endustri Muh.,46,53,97,93
+1028,Fatma Aydin,Endustri Muh.,50,59,81,97
+1029,Deniz Kilic,Yazilim Muh.,91,77,45,70
+1030,Seda Kaya,Veri Bilimi,27,95,100,69
+1031,Huseyin Yildiz,Yapay Zeka Muh.,34,100,37,69
+1032,Mehmet Demir,Veri Bilimi,34,85,60,72
+1033,Ece Koc,Bilgisayar Muh.,94,36,90,70
+1034,Ezgi Koc,Yazilim Muh.,49,32,42,97
+1035,Fatma Kilic,Yazilim Muh.,77,79,36,98
+1036,Deniz Sahin,Yapay Zeka Muh.,76,63,43,70
+1037,Burak Aydin,Endustri Muh.,82,37,84,66
+1038,Emre Kara,Bilgisayar Muh.,34,76,100,61
+1039,Ayse Ozdemir,Yapay Zeka Muh.,36,50,51,81
+1040,Buse Koc,Bilgisayar Muh.,76,27,51,79
+1041,Ahmet Aslan,Veri Bilimi,83,56,84,99
+1042,Gamze Ozdemir,Yazilim Muh.,44,44,67,68
+1043,Ayse Acar,Endustri Muh.,32,60,37,58
+1044,Huseyin Koc,Endustri Muh.,92,40,37,87
+1045,Mehmet Celik,Yapay Zeka Muh.,33,50,81,62
+1046,Cem Acar,Bilgisayar Muh.,99,96,35,94
+1047,Mehmet Cetin,Endustri Muh.,97,86,70,71
+1048,Burak Dogan,Bilgisayar Muh.,58,70,46,97
+1049,Deniz Arslan,Yazilim Muh.,65,29,31,84
+1050,Kubra Acar,Yapay Zeka Muh.,34,88,57,87
+1051,Emre Ozkan,Veri Bilimi,33,51,77,73
+1052,Zeynep Kara,Endustri Muh.,63,98,97,55
+1053,Ece Ozdemir,Veri Bilimi,38,37,63,62
+1054,Cem Sahin,Endustri Muh.,44,54,66,93
+1055,Burak Dogan,Bilgisayar Muh.,58,84,92,71
+1056,Cem Demir,Yapay Zeka Muh.,79,55,35,55
+1057,Mustafa Ozkan,Veri Bilimi,45,76,100,100
+1058,Fatma Ozdemir,Yapay Zeka Muh.,39,29,49,89
+1059,Ayse Kilic,Endustri Muh.,95,38,85,63
+1060,Ayse Arslan,Veri Bilimi,30,65,56,98
+1061,Seda Sahin,Veri Bilimi,96,72,49,70
+1062,Pinar Celik,Bilgisayar Muh.,77,23,52,76
+1063,Ezgi Cetin,Bilgisayar Muh.,59,40,43,79
+1064,Pinar Demir,Yazilim Muh.,53,45,88,77
+1065,Gizem Yildiz,Bilgisayar Muh.,28,44,81,76
+1066,Emre Kaya,Veri Bilimi,69,85,81,98
+1067,Bora Ozdemir,Veri Bilimi,28,34,63,66
+1068,Huseyin Ozturk,Yapay Zeka Muh.,38,96,85,77
+1069,Gamze Dogan,Yazilim Muh.,90,34,79,91
+1070,Burak Ozturk,Yapay Zeka Muh.,80,20,96,89
+1071,Ece Aydin,Veri Bilimi,80,28,72,94
+1072,Mustafa Sahin,Veri Bilimi,89,59,82,75
+1073,Omer Arslan,Endustri Muh.,41,44,83,97
+1074,Omer Celik,Endustri Muh.,97,58,81,90
+1075,Bora Yilmaz,Veri Bilimi,61,46,85,92
+1076,Kubra Dogan,Yazilim Muh.,81,76,57,87
+1077,Buse Celik,Yapay Zeka Muh.,61,85,72,60
+1078,Bora Yildiz,Veri Bilimi,53,45,48,56
+1079,Ayse Yildiz,Yazilim Muh.,34,78,83,95
+1080,Huseyin Aydin,Yazilim Muh.,88,71,61,64
+1081,Deniz Yilmaz,Yapay Zeka Muh.,79,48,52,99
+1082,Hasan Kara,Yapay Zeka Muh.,96,51,45,84
+1083,Can Kara,Endustri Muh.,96,96,70,83
+1084,Kubra Kurt,Yazilim Muh.,95,77,50,85
+1085,Ali Ozturk,Bilgisayar Muh.,60,86,92,95
+1086,Seda Ozturk,Yazilim Muh.,34,56,60,72
+1087,Mustafa Dogan,Endustri Muh.,35,37,49,69
+1088,Omer Ozkan,Bilgisayar Muh.,33,73,82,76
+1089,Irem Kara,Yazilim Muh.,32,46,83,79
+1090,Cem Acar,Yapay Zeka Muh.,98,68,91,55
+1091,Merve Arslan,Yazilim Muh.,78,88,99,93
+1092,Cem Yildiz,Yazilim Muh.,53,54,85,86
+1093,Ahmet Aslan,Veri Bilimi,76,41,89,63
+1094,Kubra Ozdemir,Yapay Zeka Muh.,75,95,33,60
+1095,Deniz Cetin,Bilgisayar Muh.,84,43,36,71
+1096,Omer Dogan,Bilgisayar Muh.,83,61,73,79
+1097,Emre Cetin,Veri Bilimi,35,80,32,89
+1098,Ayse Kilic,Bilgisayar Muh.,33,25,33,70
+1099,Burak Yilmaz,Endustri Muh.,44,50,46,85
+1100,Ece Sahin,Endustri Muh.,52,79,62,78
