@@ -48,8 +48,8 @@ Example:
 
 ```csv
 Ogrenci_ID,Ogrenci_Adi,Bolum,Vize_Notu,Final_Notu,Odev_Notu,Devam_Orani_%
-1001,Ali Yılmaz,Computer Engineering,70,85,90,95
-1002,Ayşe Kaya,Software Engineering,60,75,80,90
+1001,Deniz Sahin,Yapay Zeka Muh.,60,51,58,63
+1002,Gamze Sahin,Endustri Muh.,36,95,84,57
 ```
 
 ---
