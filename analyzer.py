@@ -1,4 +1,4 @@
-from confing import PASS_NOTE, MIDTERM_WEIGHT, FINAL_WEIGHT, HOMEWORK_WEIGHT
+from config import PASS_NOTE, MIDTERM_WEIGHT, FINAL_WEIGHT, HOMEWORK_WEIGHT
 
 def add_student_grades(students: list[dict])->None:
     for student in students:
